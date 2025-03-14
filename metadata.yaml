@@ -1,0 +1,24 @@
+_repo: Les-gracies-de-l-Emporda_75521
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Corominas, Pere
+    gutenberg_agent_id: '58035'
+    url: http://www.gutenberg.org/2009/agents/58035
+description: ''
+gutenberg_issued: '2025-03-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75521'
+language: ca
+pgterms:marc905: 20250226111701corominas
+pgterms:marc906: '1919'
+pgterms:marc907: ES
+production_note: 'Editor digital: Joan Queralt Gil'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Les gràcies de l'Empordà
+url: http://www.gutenberg.org/ebooks/75521
