@@ -1,11 +1,16 @@
 _repo: Les-gracies-de-l-Emporda_75521
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75521-h/images/cover.jpg
 creator:
   author:
     agent_name: Corominas, Pere
     gutenberg_agent_id: '58035'
     url: http://www.gutenberg.org/2009/agents/58035
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75521#Les-gracies-de-l-Emporda
 gutenberg_issued: '2025-03-04'
 gutenberg_type: Text
 identifiers:
